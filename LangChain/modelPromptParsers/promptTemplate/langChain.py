@@ -1,5 +1,5 @@
 from langchain_openai import ChatOpenAI
-from directApiCall import llm_model
+from LangChain.modelPromptParsers.directApiCall import llm_model
 from langchain.prompts import ChatPromptTemplate 
 
 
